@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mahmoud Abo Daif
-- 👀 I’m interested in AI and ML.
+- 👋 Hi, I’m Mahmoud Abu Deif
+- 👀 I’m interested in software development.
 - 📫 How to reach me "mahmoud.daif.it@gmail.com"
 <br><br>
  
